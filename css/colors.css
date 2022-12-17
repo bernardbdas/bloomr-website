@@ -1,0 +1,115 @@
+:root {
+  /*Final preferences*/
+
+  /*Fonts used*/
+
+  /*
+    --logo-font:"Merriweather", serif;
+    --nav-links-font:"Montserrat", sans-serif;
+    --mod-font:"Julius Sans One", sans-serif;
+    
+    --mod-head-font:;
+    --mod-body-font:;
+
+    --copyright-font:;
+    */
+
+  /*Colors and Gradients*/
+
+  /*
+    --logo-color:black;
+    
+    --nav-bg-color:linear-gradient(to left,
+            rgba(0, 174, 255, 0.83),
+            rgba(0, 181, 205, 0.83));;
+    --nav-links-color:black;
+    --nav-links-onHover:white;
+
+    --body-bg-color:linear-gradient(to right,
+            #ff8177 0%,
+            #ff867a 0%,
+            #ff8c7f 21%,
+            #f99185 52%,
+            #cf556c 78%,
+            #b12a5b 100%);;
+    
+    --mod1-txt-color:;
+    --mod2-txt-color:;
+    --mod3-txt-color:;
+    
+    --mod1-txt-onHover:;
+    --mod2-txt-onHover:;
+    --mod3-txt-onHover:;
+
+    */
+  --dark-color-a: #041c32;
+  --dark-color-b: #04293a;
+  --dark-color-bg: #064663;
+  --dark-color-d: #ecb365;
+  --dark-color-scheme: "https://colorhunt.co/palette/041c3204293a064663ecb365";
+
+  /*Navbar CSS*/
+  /**/
+  /**/
+  /**/
+  /**/
+
+  /*for dark mode*/
+  /*for light mode*/
+  --light-color-a: #f0e9d2;
+  --light-color-b: #e6ddc4;
+  --light-color-bg: #357b6e;
+  --light-color-d: #181d31;
+  --light-color-scheme: "https://colorhunt.co/palette/f0e9d2e6ddc4678983181d31";
+  --light-color-scheme-2: "https://colorhunt.co/palette/062c3005595be2d784f5f5f5";
+  /*fonts*/
+  --head-font: "Headland One", serif;
+  --btn-font: "Julius Sans One", sans-serif;
+  --txt-font: "Montserrat", sans-serif;
+  --logo-font: "Fasthand", cursive;
+  --txt-font-cursive: "Pacifico", cursive;
+  --big-font1: "Nova Oval", cursive;
+  --font1: "Noto Serif Display", serif;
+  --meri-wthr: "Merriweather", serif;
+  --bg-img: url("..//img/form-bg-img1.jpg");
+  --grad1: linear-gradient(
+    to left,
+    rgba(0, 174, 255, 0.83),
+    rgba(0, 181, 205, 0.83)
+  );
+  --grad2: linear-gradient(
+    to left,
+    rgba(250, 118, 42, 0.7),
+    rgba(87, 108, 202, 0.6)
+  );
+  --grad2: linear-gradient(to left, #ff1e1eb3, rgba(87, 108, 202, 0.6));
+  --yng-pass: linear-gradient(
+    to right,
+    #ff8177 0%,
+    #ff867a 0%,
+    #ff8c7f 21%,
+    #f99185 52%,
+    #cf556c 78%,
+    #b12a5b 100%
+  );
+  --sft-chr: linear-gradient(
+    to top,
+    #dbdcd7 0%,
+    #dddcd7 24%,
+    #e2c9cc 30%,
+    #e7627d 46%,
+    #b8235a 59%,
+    #801357 71%,
+    #3d1635 84%,
+    #1c1a27 100%
+  );
+  --mlb-bch: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+  --grad-header: linear-gradient(
+    141deg,
+    rgba(252, 248, 232, 0.6) 0%,
+    rgba(148, 180, 159, 0.6) 30%,
+    rgba(236, 179, 144, 0.6) 50%,
+    rgba(223, 120, 97, 0.6) 75%,
+    rgba(236, 179, 101, 0.7) 100%
+  );
+}
